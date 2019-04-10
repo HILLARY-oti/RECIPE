@@ -4,75 +4,93 @@ background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 }
+
 #group{
     color: cyan;
     background-color: transparent, greenyellow;
     border-radius: 34px;
     text-align: center;
 }
+
 .jumbotron{
     size: 34px;
     height: 20;
     background-image: url(/home/peter/Documents/RECIPE/image/emoji.jpg);
 }
+
 #pill{
     border-radius: 20px;
-
 }
+
 #sick{
     border-radius: 30px;
     color: violet;
     font-size: 15px;
     font-style: italic; 
 }
+
 #pil{
     border-radius: 20px;
     display: hidden;
 }
+
+
 #hank{
     text-align: center;
     color: indigo;
     font-family: monospace;
     font-size: 25px;
 }
+
 #han{
     text-align: center;
     color:indigo;
     font-family:  monospace;
     font-size: 25px;
 }
+
 .pet{
     color: darkblue;
     font-size: 15px;
 }
+
 #kiki{
     border-radius: 344px;
     border-block-end-color: beige;
 }
+
 .panel panel-info{
     background-size: 34px;
     box-sizing: content-box;
 }
+
 .hank{
     text-align: justify;
     color: aquamarine;
     font-size: 25px;
     font-kerning: auto;
 }
+
 #con{
     block-size: 8px;
 }
+
 #hero{
 
+
+
 }
+
 #blood{
     background-origin: padding-box;
     block-size: 10px;
 }
+
 .cold{
     border-radius: 33px;
     background-color: aquamarine;
 }
+
 .kangal, .panel panel-success{
 background-image: url(/home/peter/Documents/RECIPE/image/mirage.jpg);
 background-size: cover;
