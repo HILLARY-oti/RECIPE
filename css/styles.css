@@ -1,7 +1,8 @@
 body{
 background-image: url(/home/peter/Documents/RECIPE/image/hum.jpg);
 background-size: cover;
-background-clip: content-box;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 #group{
     color: cyan;
@@ -46,6 +47,7 @@ background-clip: content-box;
 }
 #kiki{
     border-radius: 344px;
+    border-block-end-color: beige;
 }
 .panel panel-info{
     background-size: 34px;
@@ -59,4 +61,20 @@ background-clip: content-box;
 }
 #con{
     block-size: 8px;
+}
+#hero{
+
+}
+#blood{
+    background-origin: padding-box;
+    block-size: 10px;
+}
+.cold{
+    border-radius: 33px;
+    background-color: aquamarine;
+}
+.kangal, .panel panel-success{
+background-image: url(/home/peter/Documents/RECIPE/image/mirage.jpg);
+background-size: cover;
+border-radius: auto;
 }
