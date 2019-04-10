@@ -1,0 +1,48 @@
+body{
+background-image: url(/home/peter/Documents/RECIPE/image/hum.jpg);
+background-size: cover;
+background-clip: content-box;
+}
+#group{
+    color: cyan;
+    background-color: transparent, greenyellow;
+    border-radius: 34px;
+    text-align: center;
+}
+.jumbotron{
+    width: 34;
+    height: 20;
+    background-image: url(/home/peter/Documents/RECIPE/image/emoji.jpg);
+}
+#pill{
+    border-radius: 20px;
+
+}
+#sick{
+    border-radius: 30px;
+    color: violet;
+    font-size: 15px;
+    font-style: italic; 
+}
+#pil{
+    border-radius: 20px;
+    display: hidden;
+}
+#hank{
+    text-align: center;
+    color: aqua;
+    font-family: monospace;
+    font-size: 25px;
+}
+#han{
+    text-align: center;
+    color:indigo;
+    font-family:  monospace;
+    font-size: 25px;
+}
+.pet{
+    color: yellowgreen;
+}
+#kiki{
+    border-radius: 344px;
+}
