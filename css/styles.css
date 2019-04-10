@@ -10,7 +10,7 @@ background-clip: content-box;
     text-align: center;
 }
 .jumbotron{
-    width: 34;
+    size: 34px;
     height: 20;
     background-image: url(/home/peter/Documents/RECIPE/image/emoji.jpg);
 }
@@ -30,7 +30,7 @@ background-clip: content-box;
 }
 #hank{
     text-align: center;
-    color: aqua;
+    color: indigo;
     font-family: monospace;
     font-size: 25px;
 }
@@ -41,8 +41,22 @@ background-clip: content-box;
     font-size: 25px;
 }
 .pet{
-    color: yellowgreen;
+    color: darkblue;
+    font-size: 15px;
 }
 #kiki{
     border-radius: 344px;
+}
+.panel panel-info{
+    background-size: 34px;
+    box-sizing: content-box;
+}
+.hank{
+    text-align: justify;
+    color: aquamarine;
+    font-size: 25px;
+    font-kerning: auto;
+}
+#con{
+    block-size: 8px;
 }
