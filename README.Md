@@ -6,7 +6,7 @@ This is a recipe website which will equip more recipes online and allow people t
 ~Bulamu Richard Mvule
 ~Peter Kangongo
 ~Joshua Musau
-### Techlogies used
+### Technologies used
 HTML
 CSS
 jQuery
