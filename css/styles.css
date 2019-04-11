@@ -58,34 +58,27 @@ background-attachment: fixed;
     border-radius: 344px;
     border-block-end-color: beige;
 }
-
 .panel panel-info{
     background-size: 34px;
     box-sizing: content-box;
 }
-
 .hank{
     text-align: justify;
     color: aquamarine;
     font-size: 25px;
     font-kerning: auto;
 }
-
 #con{
     block-size: 8px;
 }
-
 #hero{
 
 
-
 }
-
 #blood{
     background-origin: padding-box;
     block-size: 10px;
 }
-
 .cold{
     border-radius: 33px;
     background-color: aquamarine;
