@@ -1,5 +1,5 @@
 body{
-background-image: url(/home/peter/Documents/RECIPE/image/hum.jpg);
+background-image: url(hum.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -15,7 +15,7 @@ background-attachment: fixed;
 .jumbotron{
     size: 34px;
     height: 20;
-    background-image: url(/home/peter/Documents/RECIPE/image/emoji.jpg);
+    background-image: url(emoji.jpg);
 }
 
 #pill{
@@ -85,7 +85,7 @@ background-attachment: fixed;
 }
 
 .kangal, .panel panel-success{
-background-image: url(/home/peter/Documents/RECIPE/image/mirage.jpg);
+background-image: url(mirage.jpg);
 background-size: cover;
 border-radius: auto;
 }
