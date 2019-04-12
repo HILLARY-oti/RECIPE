@@ -1,5 +1,5 @@
 body{
-background-image: url(hum.jpg);
+background-image: url(/home/hillary/RECIPE/image/hum.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -15,7 +15,7 @@ background-attachment: fixed;
 .jumbotron{
     size: 34px;
     height: 20;
-    background-image: url(emoji.jpg);
+    background-image: url(/home/hillary/RECIPE/image/emoji.jpg);
 }
 
 #pill{
@@ -49,6 +49,7 @@ background-attachment: fixed;
     font-size: 25px;
 }
 
+
 .pet{
     color: darkblue;
     font-size: 15px;
@@ -71,9 +72,9 @@ background-attachment: fixed;
 #con{
     block-size: 8px;
 }
-#hero{
-
-
+#fix{
+border-radius: 115px;
+background-size: cover;
 }
 #blood{
     background-origin: padding-box;
@@ -85,7 +86,14 @@ background-attachment: fixed;
 }
 
 .kangal, .panel panel-success{
-background-image: url(mirage.jpg);
+background-image: url(/home/hillary/RECIPE/image/mirage.jpg);
 background-size: cover;
 border-radius: auto;
+}
+#asian,#african,#carrebian,#southamerica{
+    color: green;
+}
+p{
+ color: aqua;
+ font-size: 15px;
 }
